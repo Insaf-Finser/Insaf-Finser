@@ -72,7 +72,11 @@
 
 ## 🎧 What I'm Jamming To
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nhy5bfza2wyqnay4xbbo6asmwa&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nhy5bfza2wyqnay4xbbo6asmwa&redirect=true)
+<div align="center">
+  <a href="https://open.spotify.com/user/31nhy5bfza2wyqnay4xbbo6asmwa">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nhy5bfza2wyqnay4xbbo6asmwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</div>
 
 ---
 
