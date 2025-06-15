@@ -13,7 +13,7 @@
 - 🤖 Creating AI-powered applications
 - 📱 Developing beautiful Flutter apps
 - 🔐 Exploring blockchain and encryption
-
+- 💻 Web Development
 ---
 
 ## 🛠️ My Tech Arsenal
