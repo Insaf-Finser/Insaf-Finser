@@ -124,7 +124,7 @@ def coding_journey():
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Insaf-Finser&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/Insaffinser.svg" alt="WakaTime" />
+  
 </div>
 
 <div align="center">
