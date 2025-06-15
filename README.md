@@ -136,7 +136,6 @@ def coding_journey():
 <details>
   <summary>Language Statistics ...</summary><br/>
   <figure><embed src="https://wakatime.com/share/@Insaffinser/d374281d-3e01-4424-90cd-2c84ad983340.svg"></embed></figure>
-  </p>
 </details>
 
 ---
