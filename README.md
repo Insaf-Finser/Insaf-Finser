@@ -45,11 +45,8 @@
 ## 📈 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insaf-Finser&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insaf-Finser&theme=radical" alt="GitHub Streak" width="48%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insaf-Finser&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Insaf-Finser&theme=radical&margin-w=15&no-bg=true" alt="GitHub Trophies" width="48%"/>
 </div>
 
 ---
